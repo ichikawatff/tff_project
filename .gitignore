@@ -1,0 +1,27 @@
+# 機密情報（銀行口座・クレジットカード・個人情報等）
+confidential/
+
+# 環境変数・APIキー
+.env
+.env.local
+.env.*.local
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# エディタ設定
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# 一時ファイル
+*.tmp
+*.bak
+~$*
