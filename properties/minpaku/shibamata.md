@@ -3,7 +3,8 @@
 ## 基本情報
 - **施設名**: HIDAKA STAY VILLA SHIBAMATA
 - **種別**: 1棟戸建（2件）
-- **Airbnb**: https://airbnb.jp/h/hsv-shibamata
+- **Airbnb**: [Hidaka Stay Villa Shibamata Sakura](https://www.airbnb.jp/rooms/1645403747185990459)
+- **Booking.com**: [Hidaka Stay Villa Shibamata Sakura](https://www.booking.com/hotel/jp/hidaka-stay-villa-shibamata-sakura.ja.html)
 
 ## 運用マニュアル
 > [!IMPORTANT]
